@@ -1,0 +1,16 @@
+-Büyük verinin bileşenleri(5V)
+-Veri madenciliği nedir?
+-Veri madenciliği amacı nedir?
+-Veri, nesne ve nitelik kavramları.
+-Nitelik türleri.
+-Veri madenciliği süreci-aşamaları.
+-Veri işleme.
+-Veri kalitesi kriterleri.
+-Eksik verileri tamamlama yöntemleri.
+-Mod, medyan dağılım vesaire.
+-Aykırı veriler ile ilgili sayısal hesaplamar (aykırı veri tespiti)
+-Min max normalizasyonu.
+-Görsel değerlendirme, grafikler.
+-Korelasyonun ne olduğunu bilmemiz gerek.
+
+#Hoca bunlardan çıkacağını söyledi.

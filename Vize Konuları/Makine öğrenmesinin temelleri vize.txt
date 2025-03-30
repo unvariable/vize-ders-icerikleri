@@ -1,0 +1,38 @@
+Sınav konsepti:
+-Sınav bilgisayar laboratuarında olacak.
+-Önümüzde komutlarımızı test edebilmemiz için jupyter notebooks açık olacak.
+-Komutlu soruları sonra kağıda geçireceğiz.
+-Kopya konusunda ekstaradan ön uyarı geldi.
+
+makine öğrenmesinin temelleri vize
+print("".format komutu)
+liste.append('değer')
+liste.pop('değer')
+liste.sort()
+slashing işlemi
+-Genel olarak liste ve setler
+tuple veri seti
+bunların farklarını bilmemiz gerek
+
+numpy kütüphanesi:
+arange komutu
+array komutu
+DataFrame oluşturma
+loc iloc fln
+random.seed randn olayları
+
+döngüyü break komutu ile kırmak
+while döngüsü
+
+pandasta series oluşturma
+pandas swaplevel
+sort_index
+groupby.sum()
+merge'de how='outer' zımbırtısı(veri birleştirmede ortak olmayan verileri de dahil etmeye yarar) ve on=["istenenşey"] yapısı
+
+makine öğrenmesinin aşamaları(sanırsam slayt paylaşılmıştı)
+keşifsel veri analizinde kullanılan yöntemler
+veri önişleme adımları
+makine öğrenmesi algoritmalarının türleri
+denetimli- denetimsiz öğrenme nedir? Türleri nedir?
+Denetimli öğrenme nedir? Algoritma türlerine örnekler veriniz.

@@ -1,0 +1,9 @@
+Veritabanı teknolojileri vize:
+Create database
+Create table[Primary, identity,...,foreign key]
+diagrams
+insert into
+delete
+update
+
+Backup ve script

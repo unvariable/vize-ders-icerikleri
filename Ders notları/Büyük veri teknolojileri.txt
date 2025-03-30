@@ -1,0 +1,31 @@
+
+
+Neden Hadoop kullanıyoruz?
+-SQL büyüdükçe parçalamak gerekiyor.
+-Her parçanın farklı yönetimi var. (Neden : Başka gruptaki lavuk sana karışmasın diye)
+-Open source.
+
+MapReduce:
+
+    Büyük veri kümelerini paralel olarak işlemek için kullanılan bir programlama modelidir.
+    "Map" ve "Reduce" adımlarını kullanarak verileri işler ve analiz eder.
+    Dağıtık bir ortamda çalışarak yüksek performanslı veri işleme imkanı sunar.
+	
+-Otomasyon(Büyük veri teknolojileri).
+-Job
+-Task
+-Job attempt
+-Böl, parçala, yönet.
+-Master node, slave node muhabbeti.
++Kölelerin birbiriyle iletişimi var.
++Çakışma olabilir.
++Hangi köle hangi işi yapıcak.
+-Bias(önyargı)
+
+Düğümler, takipçiler, görevler(nodes, trackers, tasks):
+-Jobtracker
+-Tasktracker
+
+Gemini:
+-FEC(ileri yönlü hata düzeltme)
+-TCP/IP
